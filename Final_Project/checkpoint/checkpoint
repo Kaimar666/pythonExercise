@@ -1,0 +1,2 @@
+model_checkpoint_path: "red_wine_quality_1.ckpt"
+all_model_checkpoint_paths: "red_wine_quality_1.ckpt"
